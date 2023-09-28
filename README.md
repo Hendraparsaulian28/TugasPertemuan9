@@ -1,6 +1,6 @@
 ## NAMA : Hendra Parsaulian
 ## NIM : 312210689
-## KELAS : TI.22.A.3
+## KELAS : TI.22.A3
 
 Jika sudah kita bisa memasukan kode inputan dengan benar agar tidak terjadi eror
 
